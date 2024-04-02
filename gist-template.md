@@ -1,4 +1,4 @@
-# Title (replace with your title)
+# Title - components for Regex
 
 Introductory paragraph (replace this with your text)
 Describing below components for Regex - /^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/
